@@ -1,0 +1,30 @@
+{
+    "name": "Max Mustermann",
+    "age": 60,
+    "gender": "male",
+    "phone_num": "+49123456",
+    "address": {
+        "street": "Musterstrasse",
+        "number": 123,
+        "city": "Pfarrkirchen",
+        "state": "Bayern",
+        "zip_code": "84347",
+        "country": "Deutschland"
+    },
+    "insurance_num": "X012345678",
+    "insurance": "AOK",
+    "contact_person": {
+        "name": "Marianne Musterfrau",
+        "phone_num": "+49654321",
+        "address": {
+            "street": "Hauptstrasse",
+            "number": 3,
+            "city": "Deggendorf",
+            "state": "Bayern",
+            "zip_code": "94469",
+            "country": "Deutschland"
+        }
+    },
+    "comorbidities": "Hypertension",
+    "allergies": "Penicillin"  
+}
