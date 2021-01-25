@@ -1,2 +1,2 @@
-# intro_computer_science
+# project_computer_science
 Project made in python code about a sensor for cardiovascular patients
